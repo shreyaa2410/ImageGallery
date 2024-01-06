@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h2{
+    text-align: center;
+    color: rgb(167, 80, 94);
+}
+.gap-40{
+    row-gap: 20px;
+}
+.items img{
+    width: 100%;
+    object-fit: cover;
+}
